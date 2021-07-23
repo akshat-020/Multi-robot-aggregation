@@ -9,6 +9,8 @@ switching mode controller: Switching mode controller means the bot switches betw
 collision avoidance: Using the algorithm to avoid the static obstacles(objects) and as well as the other bots.
 local sensing: Sensing of the data using the lidar sensors on the TURTLEBOT3.
 
-
+The Swarm system refers to a group of self-organizing individual.Autonomous robots are excellent candidates for improving efficiency and risk in search & rescue 
+missions in unknown or dangerous situations or dangerous environments. A swarm of robots can 
+perform a task in coordination that cannot be done by a single robot.
 Various trials of the controller uploaded in the folder scripts
 Final code is the trial8.py
